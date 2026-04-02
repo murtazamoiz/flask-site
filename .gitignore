@@ -1,5 +1,4 @@
 #database files
-.database
+*.db
 
-#cache
-.website/__pychache__
+website/__pycache__/
