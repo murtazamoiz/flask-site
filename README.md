@@ -42,8 +42,8 @@ This project serves as a **beginner-friendly template** to understand how a full
 ### 📝 Notes Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### ⚠️ Flash Messages
-![Flash](screenshots/flash.png)
+### + Adding Notes
+![Note Addition](screenshots/notes.png)
 
 ---
 
